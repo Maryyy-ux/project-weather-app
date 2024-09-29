@@ -1,13 +1,12 @@
 # Weather App
 
-Replace this readme with your own information about your project.
+This is the seven week's project. World forecast app. As it's worldwide, is required to filter by city name. Fetch, API's. 
 
-Start by briefly describing the assignment in a sentence or two. Keep it short and to the point.
 
 ## The problem
 
-Describe how you approached to problem, and what tools and techniques you used to solve it. How did you plan? What technologies did you use? If you had more time, what would be next?
+If I had more time I would find out the main page styling but it is a secondary issue. 
 
 ## View it live
 
-Every project should be deployed somewhere. Be sure to include the link to the deployed project so that the viewer can click around and see what it's all about.
+Netlify: (https://66f9a6ffd3552144d0e5534c--cute-selkie-735cdb.netlify.app/)
